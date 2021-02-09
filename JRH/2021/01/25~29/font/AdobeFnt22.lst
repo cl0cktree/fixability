@@ -1,0 +1,2102 @@
+%!Adobe-FontList 1.22
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Abril_Fatface.zip
+FileModTime:1611883605
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AbrilFatface-Regular
+FamilyName:Abril Fatface
+StyleName:Regular
+FullName:Abril Fatface
+MenuName:Abril Fatface
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Abril_Fatface\AbrilFatface-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58372
+FileModTime:1314716400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Abril Fatface
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Abril_Fatface\OFL.txt
+FileModTime:1314716400
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Anton.zip
+FileModTime:1611883581
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Anton-Regular
+FamilyName:Anton
+StyleName:Regular
+FullName:Anton Regular
+MenuName:Anton
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Anton\Anton-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74984
+FileModTime:1298386800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Anton
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Anton\OFL.txt
+FileModTime:1298386800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Caviar-Dreams.zip
+FileModTime:1611883398
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CaviarDreams
+FamilyName:Caviar Dreams
+StyleName:Regular
+FullName:Caviar Dreams
+MenuName:Caviar Dreams
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Caviar-Dreams\CaviarDreams.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58864
+FileModTime:1611832996
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Caviar Dreams
+NameArray:0,Win,1,Caviar Dreams
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CaviarDreams-BoldItalic
+FamilyName:Caviar Dreams
+StyleName:Bold Italic
+FullName:Caviar Dreams Bold Italic
+MenuName:Caviar Dreams
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Caviar-Dreams\CaviarDreams_BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76448
+FileModTime:1611832996
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Caviar Dreams Bold Italic
+NameArray:0,Win,1,Caviar Dreams
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CaviarDreams-Italic
+FamilyName:Caviar Dreams
+StyleName:Italic
+FullName:Caviar Dreams Italic
+MenuName:Caviar Dreams
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Caviar-Dreams\CaviarDreams_Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73056
+FileModTime:1611832996
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Caviar Dreams Italic
+NameArray:0,Win,1,Caviar Dreams
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CaviarDreams-Bold
+FamilyName:Caviar Dreams
+StyleName:Bold
+FullName:Caviar Dreams Bold
+MenuName:Caviar Dreams
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Caviar-Dreams\Caviar_Dreams_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55988
+FileModTime:1611832996
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Caviar Dreams Bold
+NameArray:0,Win,1,Caviar Dreams
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Caviar-Dreams\Nymphont License.txt
+FileModTime:1611832996
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Coda_Caption.zip
+FileModTime:1611883531
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CodaCaption-ExtraBold
+FamilyName:Coda Caption
+StyleName:ExtraBold
+FullName:Coda Caption ExtraBold
+MenuName:Coda Caption ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Coda_Caption\CodaCaption-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72124
+FileModTime:1297177200
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Coda Caption ExtraBold
+NameArray:0,Win,16,Coda Caption
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Coda_Caption\OFL.txt
+FileModTime:1297177200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Gorditas.zip
+FileModTime:1611883592
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gorditas-Bold
+FamilyName:Gorditas
+StyleName:Bold
+FullName:Gorditas Bold
+MenuName:Gorditas
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Gorditas\Gorditas-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96416
+FileModTime:1331650800
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Gorditas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gorditas-Regular
+FamilyName:Gorditas
+StyleName:Regular
+FullName:Gorditas
+MenuName:Gorditas
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Gorditas\Gorditas-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97688
+FileModTime:1331650800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Gorditas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Gorditas\OFL.txt
+FileModTime:1331650800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Hachi_Maru_Pop.zip
+FileModTime:1611883513
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HachiMaruPop-Regular
+FamilyName:Hachi Maru Pop
+StyleName:Regular
+FullName:Hachi Maru Pop Regular
+MenuName:Hachi Maru Pop
+StyleBits:0
+FamilyNameNative:Hachi Maru Pop
+StyleNameNative:Regular
+FullNameNative:Hachi Maru Pop Regular
+WritingScript:Japanese
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Hachi_Maru_Pop\HachiMaruPop-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:7561748
+FileModTime:1607871600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Hachi Maru Pop
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Hachi_Maru_Pop\OFL.txt
+FileModTime:1607871600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Londrina_Solid.zip
+FileModTime:1611883536
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LondrinaSolid-Black
+FamilyName:Londrina Solid
+StyleName:Black
+FullName:Londrina Solid Black
+MenuName:Londrina Solid Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Londrina_Solid\LondrinaSolid-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91616
+FileModTime:1331650800
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Londrina Solid Black
+NameArray:0,Win,16,Londrina Solid
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LondrinaSolid-Light
+FamilyName:Londrina Solid
+StyleName:Light
+FullName:Londrina Solid Light
+MenuName:Londrina Solid Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Londrina_Solid\LondrinaSolid-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:84140
+FileModTime:1331650800
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Londrina Solid Light
+NameArray:0,Win,16,Londrina Solid
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LondrinaSolid-Regular
+FamilyName:Londrina Solid
+StyleName:Regular
+FullName:Londrina Solid Regular
+MenuName:Londrina Solid
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Londrina_Solid\LondrinaSolid-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90360
+FileModTime:1331650800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Londrina Solid
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LondrinaSolid-Thin
+FamilyName:Londrina Solid
+StyleName:Thin
+FullName:Londrina Solid Thin
+MenuName:Londrina Solid Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Londrina_Solid\LondrinaSolid-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:78848
+FileModTime:1331650800
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Londrina Solid Thin
+NameArray:0,Win,16,Londrina Solid
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Londrina_Solid\OFL.txt
+FileModTime:1331650800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald.zip
+FileModTime:1611883521
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald\OFL.txt
+FileModTime:1330441200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-Regular
+FamilyName:Oswald
+StyleName:Regular
+FullName:Oswald Regular
+MenuName:Oswald
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald\Oswald-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:153152
+FileModTime:1330441200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald\README.txt
+FileModTime:1611822320
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-Bold
+FamilyName:Oswald
+StyleName:Bold
+FullName:Oswald Bold
+MenuName:Oswald
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald\static\Oswald-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91676
+FileModTime:1330441200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-ExtraLight
+FamilyName:Oswald
+StyleName:ExtraLight
+FullName:Oswald ExtraLight
+MenuName:Oswald ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald\static\Oswald-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91364
+FileModTime:1330441200
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Oswald ExtraLight
+NameArray:0,Win,16,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-Light
+FamilyName:Oswald
+StyleName:Light
+FullName:Oswald Light
+MenuName:Oswald Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald\static\Oswald-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91500
+FileModTime:1330441200
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Oswald Light
+NameArray:0,Win,16,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-Medium
+FamilyName:Oswald
+StyleName:Medium
+FullName:Oswald Medium
+MenuName:Oswald Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald\static\Oswald-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91648
+FileModTime:1330441200
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Oswald Medium
+NameArray:0,Win,16,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-Regular
+FamilyName:Oswald
+StyleName:Regular
+FullName:Oswald Regular
+MenuName:Oswald
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald\static\Oswald-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91400
+FileModTime:1330441200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-SemiBold
+FamilyName:Oswald
+StyleName:SemiBold
+FullName:Oswald SemiBold
+MenuName:Oswald SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Oswald\static\Oswald-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91700
+FileModTime:1330441200
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Oswald SemiBold
+NameArray:0,Win,16,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Pacifico (1).zip
+FileModTime:1611883596
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Pacifico (1)\OFL.txt
+FileModTime:1299596400
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pacifico-Regular
+FamilyName:Pacifico
+StyleName:Regular
+FullName:Pacifico Regular
+MenuName:Pacifico
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Pacifico (1)\Pacifico-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:315044
+FileModTime:1299596400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pacifico
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono.zip
+FileModTime:1611883525
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\LICENSE.txt
+FileModTime:1431442800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\README.txt
+FileModTime:1611822324
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Italic
+FamilyName:Roboto Mono
+StyleName:Italic
+FullName:Roboto Mono Italic
+MenuName:Roboto Mono
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\RobotoMono-Italic-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:195012
+FileModTime:1431442800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Regular
+FamilyName:Roboto Mono
+StyleName:Regular
+FullName:Roboto Mono Regular
+MenuName:Roboto Mono
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\RobotoMono-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:182172
+FileModTime:1431442800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Bold
+FamilyName:Roboto Mono
+StyleName:Bold
+FullName:Roboto Mono Bold
+MenuName:Roboto Mono
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87008
+FileModTime:1431442800
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-BoldItalic
+FamilyName:Roboto Mono
+StyleName:Bold Italic
+FullName:Roboto Mono Bold Italic
+MenuName:Roboto Mono
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94148
+FileModTime:1431442800
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-ExtraLight
+FamilyName:Roboto Mono
+StyleName:ExtraLight
+FullName:Roboto Mono ExtraLight
+MenuName:Roboto Mono ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87788
+FileModTime:1431442800
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono ExtraLight
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-ExtraLightItalic
+FamilyName:Roboto Mono
+StyleName:ExtraLight Italic
+FullName:Roboto Mono ExtraLight Italic
+MenuName:Roboto Mono ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93408
+FileModTime:1431442800
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono ExtraLight
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Italic
+FamilyName:Roboto Mono
+StyleName:Italic
+FullName:Roboto Mono Italic
+MenuName:Roboto Mono
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93904
+FileModTime:1431442800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Light
+FamilyName:Roboto Mono
+StyleName:Light
+FullName:Roboto Mono Light
+MenuName:Roboto Mono Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87592
+FileModTime:1431442800
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono Light
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-LightItalic
+FamilyName:Roboto Mono
+StyleName:Light Italic
+FullName:Roboto Mono Light Italic
+MenuName:Roboto Mono Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93760
+FileModTime:1431442800
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono Light
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Medium
+FamilyName:Roboto Mono
+StyleName:Medium
+FullName:Roboto Mono Medium
+MenuName:Roboto Mono Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:86820
+FileModTime:1431442800
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono Medium
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-MediumItalic
+FamilyName:Roboto Mono
+StyleName:Medium Italic
+FullName:Roboto Mono Medium Italic
+MenuName:Roboto Mono Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93948
+FileModTime:1431442800
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono Medium
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Regular
+FamilyName:Roboto Mono
+StyleName:Regular
+FullName:Roboto Mono Regular
+MenuName:Roboto Mono
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:86908
+FileModTime:1431442800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-SemiBold
+FamilyName:Roboto Mono
+StyleName:SemiBold
+FullName:Roboto Mono SemiBold
+MenuName:Roboto Mono SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87076
+FileModTime:1431442800
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono SemiBold
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-SemiBoldItalic
+FamilyName:Roboto Mono
+StyleName:SemiBold Italic
+FullName:Roboto Mono SemiBold Italic
+MenuName:Roboto Mono SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93940
+FileModTime:1431442800
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono SemiBold
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Thin
+FamilyName:Roboto Mono
+StyleName:Thin
+FullName:Roboto Mono Thin
+MenuName:Roboto Mono Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87872
+FileModTime:1431442800
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono Thin
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-ThinItalic
+FamilyName:Roboto Mono
+StyleName:Thin Italic
+FullName:Roboto Mono Thin Italic
+MenuName:Roboto Mono Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\Roboto_Mono\static\RobotoMono-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93056
+FileModTime:1431442800
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Mono Thin
+NameArray:0,Win,16,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\alata.zip
+FileModTime:1611883448
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\alata\SIL Open Font License.txt
+FileModTime:1611833046
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alata-Regular
+FamilyName:Alata
+StyleName:Regular
+FullName:Alata Regular
+MenuName:Alata
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\alata\alata-regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:103312
+FileModTime:1611833046
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Alata Regular
+NameArray:0,Win,1,Alata
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\alatsi.zip
+FileModTime:1611883450
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alatsi-Regular
+FamilyName:Alatsi
+StyleName:Regular
+FullName:Alatsi Regular
+MenuName:Alatsi
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\alatsi\Alatsi-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:118728
+FileModTime:1611833048
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Alatsi Regular
+NameArray:0,Win,1,Alatsi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\alatsi\SIL Open Font License.txt
+FileModTime:1611833048
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\baloo.zip
+FileModTime:1611883390
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baloo
+FamilyName:Baloo
+StyleName:Regular
+FullName:Baloo
+MenuName:Baloo
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\baloo\Baloo-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:680508
+FileModTime:1611832988
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Baloo
+NameArray:0,Win,1,Baloo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\baloo\SIL Open Font License.txt
+FileModTime:1611832988
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\chunkfive.zip
+FileModTime:1611883311
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChunkFivePrint
+FamilyName:ChunkFive Print
+StyleName:Regular
+FullName:ChunkFive Print
+MenuName:ChunkFive Print
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\chunkfive\Chunk Five Print.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:175192
+FileModTime:1611832908
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,ChunkFive Print
+NameArray:0,Win,1,ChunkFive Print
+NameArray:0,Win,16,ChunkFive Print
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChunkFive-Regular
+FamilyName:ChunkFive
+StyleName:Regular
+FullName:ChunkFive Regular
+MenuName:ChunkFive
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\chunkfive\ChunkFive-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43460
+FileModTime:1611832908
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,ChunkFive Regular
+NameArray:0,Win,1,ChunkFive
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\chunkfive\SIL Open Font License.txt
+FileModTime:1611832908
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\cotrell-cf.zip
+FileModTime:1611883457
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\cotrell-cf\Chuck's Fonts License.txt
+FileModTime:1611833056
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CotrellCFExtraBold-ExtraBold
+FamilyName:Cotrell CF ExtraBold
+StyleName:ExtraBold
+FullName:Cotrell CF ExtraBold ExtraBold
+MenuName:Cotrell CF ExtraBold ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\cotrell-cf\CotrellCFExtraBold-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92496
+FileModTime:1611833056
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cotrell CF ExtraBold ExtraBold
+NameArray:0,Win,1,Cotrell CF ExtraBold ExtraBold
+NameArray:0,Win,16,Cotrell CF ExtraBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\darker-grotesque.zip
+FileModTime:1611883443
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Black
+FamilyName:Darker Grotesque
+StyleName:Black
+FullName:Darker Grotesque Black
+MenuName:Darker Grotesque Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\darker-grotesque\DarkerGrotesque-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:81196
+FileModTime:1611833040
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque Black
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Bold
+FamilyName:Darker Grotesque
+StyleName:Bold
+FullName:Darker Grotesque Bold
+MenuName:Darker Grotesque
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\darker-grotesque\DarkerGrotesque-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80904
+FileModTime:1611833040
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-ExtraBold
+FamilyName:Darker Grotesque
+StyleName:ExtraBold
+FullName:Darker Grotesque ExtraBold
+MenuName:Darker Grotesque ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\darker-grotesque\DarkerGrotesque-Extrabold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:81480
+FileModTime:1611833040
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque ExtraBold
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Light
+FamilyName:Darker Grotesque
+StyleName:Light
+FullName:Darker Grotesque Light
+MenuName:Darker Grotesque Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\darker-grotesque\DarkerGrotesque-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76836
+FileModTime:1611833040
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque Light
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Medium
+FamilyName:Darker Grotesque
+StyleName:Medium
+FullName:Darker Grotesque Medium
+MenuName:Darker Grotesque Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\darker-grotesque\DarkerGrotesque-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80196
+FileModTime:1611833040
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque Medium
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-Regular
+FamilyName:Darker Grotesque
+StyleName:Regular
+FullName:Darker Grotesque Regular
+MenuName:Darker Grotesque
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\darker-grotesque\DarkerGrotesque-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80048
+FileModTime:1611833040
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkerGrotesque-SemiBold
+FamilyName:Darker Grotesque
+StyleName:SemiBold
+FullName:Darker Grotesque SemiBold
+MenuName:Darker Grotesque SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\darker-grotesque\DarkerGrotesque-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:81148
+FileModTime:1611833040
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Darker Grotesque SemiBold
+NameArray:0,Win,16,Darker Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\darker-grotesque\SIL Open Font License.txt
+FileModTime:1611833040
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\futura-renner.zip
+FileModTime:1611883438
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaRenner-Light
+FamilyName:FuturaRenner
+StyleName:Light
+FullName:FuturaRenner Light
+MenuName:FuturaRenner Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\futura-renner\FuturaRenner-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87892
+FileModTime:1611833036
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,FuturaRenner Light
+NameArray:0,Win,1,FuturaRenner Light
+NameArray:0,Win,16,FuturaRenner
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaRenner-Regular
+FamilyName:FuturaRenner
+StyleName:Regular
+FullName:FuturaRenner
+MenuName:FuturaRenner
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\futura-renner\FuturaRenner-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:78164
+FileModTime:1611833036
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,FuturaRenner Regular
+NameArray:0,Mac,4,FuturaRenner
+NameArray:0,Win,1,FuturaRenner
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\futura-renner\SIL Open Font License.txt
+FileModTime:1611833036
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\kaushan-script.zip
+FileModTime:1611883370
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:KaushanScript-Regular
+FamilyName:Kaushan Script
+StyleName:Regular
+FullName:Kaushan Script
+MenuName:Kaushan Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\kaushan-script\KaushanScript-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89168
+FileModTime:1611832968
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kaushan Script
+NameArray:0,Win,1,Kaushan Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\kaushan-script\SIL Open Font License.txt
+FileModTime:1611832968
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\league-spartan.zip
+FileModTime:1611883359
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LeagueSpartan-Bold
+FamilyName:League Spartan
+StyleName:Bold
+FullName:League Spartan Bold
+MenuName:League Spartan
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\league-spartan\LeagueSpartan-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25296
+FileModTime:1611832958
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,League Spartan Bold
+NameArray:0,Win,1,League Spartan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\league-spartan\SIL Open Font License.txt
+FileModTime:1611832958
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\massenet.zip
+FileModTime:1611883453
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\massenet\Chuck's Fonts License.txt
+FileModTime:1611833052
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MassenetBold-Bold
+FamilyName:Massenet Bold
+StyleName:Bold
+FullName:Massenet Bold Bold
+MenuName:Massenet Bold Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\massenet\MassenetBold-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39900
+FileModTime:1611833052
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Massenet Bold Bold
+NameArray:0,Win,1,Massenet Bold Bold
+NameArray:0,Win,16,Massenet Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MassenetSemiBold-Bold
+FamilyName:Massenet SemiBold
+StyleName:Bold
+FullName:Massenet SemiBold Bold
+MenuName:Massenet SemiBold Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\massenet\MassenetSemiBold-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40420
+FileModTime:1611833052
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Massenet SemiBold Bold
+NameArray:0,Win,1,Massenet SemiBold Bold
+NameArray:0,Win,16,Massenet SemiBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MassenetXBold-Bold
+FamilyName:Massenet XBold
+StyleName:Bold
+FullName:Massenet XBold Bold
+MenuName:Massenet XBold Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\massenet\MassenetXBold-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39696
+FileModTime:1611833052
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Massenet XBold Bold
+NameArray:0,Win,1,Massenet XBold Bold
+NameArray:0,Win,16,Massenet XBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\norwester.zip
+FileModTime:1611883385
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\norwester\SIL Open Font License.txt
+FileModTime:1611832984
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Norwester-Regular
+FamilyName:Norwester
+StyleName:Regular
+FullName:Norwester
+MenuName:Norwester
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\norwester\norwester.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:11392
+FileModTime:1611832984
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Norwester
+NameArray:0,Win,1,Norwester
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\oxanium.zip
+FileModTime:1611883436
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxanium-Bold
+FamilyName:Oxanium
+StyleName:Bold
+FullName:Oxanium Bold
+MenuName:Oxanium
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\oxanium\Oxanium-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55884
+FileModTime:1611833034
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oxanium Bold
+NameArray:0,Win,1,Oxanium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxanium-ExtraBold
+FamilyName:Oxanium
+StyleName:ExtraBold
+FullName:Oxanium ExtraBold
+MenuName:Oxanium ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\oxanium\Oxanium-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55976
+FileModTime:1611833034
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oxanium ExtraBold
+NameArray:0,Win,1,Oxanium ExtraBold
+NameArray:0,Win,16,Oxanium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxanium-ExtraLight
+FamilyName:Oxanium
+StyleName:ExtraLight
+FullName:Oxanium ExtraLight
+MenuName:Oxanium ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\oxanium\Oxanium-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56100
+FileModTime:1611833034
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oxanium ExtraLight
+NameArray:0,Win,1,Oxanium ExtraLight
+NameArray:0,Win,16,Oxanium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxanium-Light
+FamilyName:Oxanium
+StyleName:Light
+FullName:Oxanium Light
+MenuName:Oxanium Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\oxanium\Oxanium-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56016
+FileModTime:1611833034
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oxanium Light
+NameArray:0,Win,1,Oxanium Light
+NameArray:0,Win,16,Oxanium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxanium-Medium
+FamilyName:Oxanium
+StyleName:Medium
+FullName:Oxanium Medium
+MenuName:Oxanium Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\oxanium\Oxanium-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55992
+FileModTime:1611833034
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oxanium Medium
+NameArray:0,Win,1,Oxanium Medium
+NameArray:0,Win,16,Oxanium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxanium-Regular
+FamilyName:Oxanium
+StyleName:Regular
+FullName:Oxanium Regular
+MenuName:Oxanium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\oxanium\Oxanium-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55924
+FileModTime:1611833034
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oxanium Regular
+NameArray:0,Win,1,Oxanium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxanium-SemiBold
+FamilyName:Oxanium
+StyleName:SemiBold
+FullName:Oxanium SemiBold
+MenuName:Oxanium SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\oxanium\Oxanium-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55996
+FileModTime:1611833034
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oxanium SemiBold
+NameArray:0,Win,1,Oxanium SemiBold
+NameArray:0,Win,16,Oxanium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\oxanium\SIL Open Font License.txt
+FileModTime:1611833034
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\pacifico.zip
+FileModTime:1611883382
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pacifico
+FamilyName:Pacifico
+StyleName:Regular
+FullName:Pacifico
+MenuName:Pacifico
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\pacifico\Pacifico.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:75568
+FileModTime:1611832980
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Pacifico
+NameArray:0,Mac,4,Pacifico
+NameArray:0,Win,1,Pacifico
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\pacifico\SIL Open Font License.txt
+FileModTime:1611832980
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand.zip
+FileModTime:1611883264
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Quicksand-Bold
+FamilyName:Quicksand
+StyleName:Bold
+FullName:Quicksand Bold
+MenuName:Quicksand
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\Quicksand-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29324
+FileModTime:1611832862
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Quicksand Bold
+NameArray:0,Win,1,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Quicksand-BoldItalic
+FamilyName:Quicksand
+StyleName:Bold Italic
+FullName:Quicksand Bold Italic
+MenuName:Quicksand
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\Quicksand-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29368
+FileModTime:1611832862
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Quicksand Bold Italic
+NameArray:0,Win,1,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Quicksand-Italic
+FamilyName:Quicksand
+StyleName:Italic
+FullName:Quicksand Italic
+MenuName:Quicksand
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\Quicksand-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30404
+FileModTime:1611832862
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Quicksand Italic
+NameArray:0,Win,1,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Quicksand-Light
+FamilyName:Quicksand
+StyleName:Light
+FullName:Quicksand Light
+MenuName:Quicksand
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\Quicksand-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25852
+FileModTime:1611832862
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Quicksand Light
+NameArray:0,Win,1,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Quicksand-LightItalic
+FamilyName:Quicksand
+StyleName:Light Italic
+FullName:Quicksand Light Italic
+MenuName:Quicksand
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\Quicksand-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:27908
+FileModTime:1611832862
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Quicksand Light Italic
+NameArray:0,Win,1,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Quicksand-Regular
+FamilyName:Quicksand
+StyleName:Regular
+FullName:Quicksand Regular
+MenuName:Quicksand
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\Quicksand-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28196
+FileModTime:1611832862
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Quicksand Regular
+NameArray:0,Win,1,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:QuicksandDash-Regular
+FamilyName:Quicksand
+StyleName:Dash
+FullName:Quicksand Dash Regular
+MenuName:Quicksand Dash
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\Quicksand_Dash.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60244
+FileModTime:1611832862
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Quicksand Dash Regular
+NameArray:0,Win,1,Quicksand Dash
+NameArray:0,Win,16,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\SIL Open Font License.txt
+FileModTime:1611832862
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\quicksand.jpg
+FileModTime:1611832862
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\82108\Desktop\fixability\JRH\2021\01\25~29\Font\quicksand\specimenposter_4967.jpg
+FileModTime:1611832862
+%EndFont
+
