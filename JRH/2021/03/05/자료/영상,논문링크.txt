@@ -1,0 +1,22 @@
+https://youtu.be/kIykN0CxI8U - 영상에 스켈레톤을 자동으로 만들어주는 프로그램
+
+https://youtu.be/7utv1SIBfX4 - coaches using ai pose estimation
+
+
+
+
+
+
+https://www.fiverr.com/hmzeeshan19/do-human-pose-estimation-and-tracking- tracking하며 포즈 분석 기능 기술 판매 사이트 
+
+https://www.semanticscholar.org/paper/AI-Coach%3A-Deep-Human-Pose-Estimation-and-Analysis-Wang-Qiu/9f628e045c7ea27ad4befd02c3072f2fb8a1eac1
+-ai코칭
+https://www.imveurope.com/news/image-analysis-helps-chicago-cubs-pitchers-stay-injury-free
+ㄴ kinatrax의 생체역학데이터
+
+https://www.mlb.com/news/hawk-eye-statcast-pose-tracking-the-best-2020-postseason-moments
+가상카메라를 통한 분석
+
+https://technology.mlblogs.com/introducing-statcast-2020-hawk-eye-and-google-cloud-a5f5c20321b8
+Hawk-Eye(sony 자회사) - 피치, 히트, 플레이어 추적, 포즈추적기능(분석에 사용)
+광학추적 시스템
